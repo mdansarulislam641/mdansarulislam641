@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJs , NodeJs , Typescript , Mongoose**
 
-- 👨‍💻 All of my projects are available at [https://ansarulportfolio.netlify.app/](https://ansarul.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ansarul.netlify.app/](https://ansarul.netlify.app/)
 
 - 💬 Ask me about **i am a React Developer**
 
